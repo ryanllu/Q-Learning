@@ -1,5 +1,5 @@
-from QLearning import QLearning
-from QLearning import QTable
+from qLearning import QLearning
+from qLearning import QTable
 import gym
 
 env=gym.make("MountainCar-v0")
