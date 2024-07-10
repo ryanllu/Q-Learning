@@ -1,5 +1,5 @@
-from OpenAIWrapper import QLearning
-from OpenAIWrapper import QTable
+from QLearning import QLearning
+from QLearning import QTable
 import gym
 
 env=gym.make("MountainCar-v0")
