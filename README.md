@@ -1,1 +1,1 @@
-#### Implementation of QLearning model for OpenAI's Reinforcement Learning Environment.
+#### Implementation of Q-Learning Algortihm for OpenAI's Reinforcement Learning Environment.
